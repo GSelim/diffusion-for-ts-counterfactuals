@@ -4,4 +4,5 @@ Python project around diffusion models application in the case of time series da
 
 
 Programme principal du modèle de diffusion : diffusion.py
+
 Programme test : experiments.ipynb
